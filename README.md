@@ -2,6 +2,7 @@
 
 https://github.com/WeitaoZhu
 
+https://github.com/microsoft/AI-System/tree/main     ||   https://github.com/microsoft/AI-System/tree/main/Textbook
 
 操作系统经典书籍  ： https://github.com/WeitaoZhu/Operating_Systems
 
